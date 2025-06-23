@@ -1,6 +1,6 @@
 /* 设置全站背景图片 */
 body {
-  background: url('/assets/自然.jpg') no-repeat center center fixed;
+  background: url('/自然.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
