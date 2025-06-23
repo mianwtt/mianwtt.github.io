@@ -9,4 +9,5 @@ extra_css:
 
 extra_javascript:
   - assets/particles.js
+  - assets/particles.min.js
   
