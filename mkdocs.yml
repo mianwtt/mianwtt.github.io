@@ -1,0 +1,5 @@
+site_name: mian's blog
+site_url: https://mianwtt.github.io
+site_author: xiaogao
+theme:
+  name: material
