@@ -8,6 +8,6 @@ extra_css:
   - assets/styles.css
 
 extra_javascript:
-  - assets/particles-init.js
   - assets/particles.min.js
+  - assets/particles-init.js
   
