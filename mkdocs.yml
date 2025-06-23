@@ -6,7 +6,7 @@ theme:
   custom_dir: overrides
 
 extra_css:
-  - assets/style.css
+  - assets/styles.css
 
 extra_javascript:
   - assets/particles.js
