@@ -3,7 +3,6 @@ site_url: https://mianwtt.github.io
 site_author: xiaogao
 theme:
   name: material
-  custom_dir: overrides
 
 extra_css:
   - assets/styles.css
