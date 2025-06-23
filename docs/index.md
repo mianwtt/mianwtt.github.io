@@ -1,6 +1,6 @@
 # 👋 欢迎来到我的个人网站
 
-你好，我是 **[你的名字]**，一名热爱技术与探索的开发者。
+你好，我是 **[mianer]**，一名热爱技术与探索的开发者。
 
 我热衷于以下方向：
 
@@ -24,14 +24,14 @@
 ## 📫 联系我
 
 - GitHub: [https://github.com/mianwtt](https://github.com/mianwtt)
-- 邮箱: mianwtt@example.com
+- 邮箱: 3055883255@qq.com
 - 微信/QQ: 可私聊获取 😊
 
 ---
 
 ## 🧠 座右铭
 
-> Stay hungry, stay foolish.  
+> 留在这里还是继续走我不知道，但我知道这不是我最终停靠的地方。
 > 保持好奇，持续进步！
 
 ---
