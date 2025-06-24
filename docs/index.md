@@ -41,3 +41,9 @@
 
 感谢你访问我的个人主页 🙌  
 如果你觉得有趣，欢迎 Star 我的项目或联系交流。
+
+<div id="vinyl-disk-rotator-global" class="vinyl-disk">
+  <div id="play-pause-button-global" class="play-pause-btn paused"></div>
+</div>
+
+<audio id="my-audio" src="assets/music.mp3" loop></audio>

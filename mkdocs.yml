@@ -1,13 +1,33 @@
-site_name: mian's blog
-site_url: https://mianwtt.github.io
-site_author: xiaogao
+site_name: 我的经验平台
+site_url: https://你的用户名.github.io/
+repo_url: https://github.com/你的用户名/你的仓库
+repo_name: GitHub
+
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
 
+nav:
+  - 首页: index.md
+  - 经验分享:
+      - YOLO 项目经验: experiences/yolo.md
+      - Flask 留言板: experiences/flask.md
+  - 技术笔记:
+      - Git 使用技巧: tech-notes/git.md
+      - MkDocs 教程: tech-notes/mkdocs.md
+
+plugins:
+  - search
+  
 extra_css:
   - assets/styles.css
 
 extra_javascript:
   - assets/particles.min.js
   - assets/particles-init.js
+  - assets/player_control.js
   
